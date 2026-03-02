@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+profile!;Below+you+will+find+information+about+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&lines=Welcome+to+my+Github+profile!;Below+you+will+find+information;about+me.)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on ...
@@ -11,6 +11,11 @@
   <img height="32" src="https://cdn.simpleicons.org/go/viewbox=auto" />
   <img height="32" src="https://cdn.simpleicons.org/react/viewbox=auto" />
   <img height="32" src="https://cdn.simpleicons.org/docker/viewbox=auto" />
+  <img height="32" src="https://cdn.simpleicons.org/git/viewbox=auto" />
+  <img height="32" src="https://cdn.simpleicons.org/ubuntu/viewbox=auto" />
+  <img height="32" src="https://cdn.simpleicons.org/mysql/viewbox=auto" />
+  <img height="32" src="https://cdn.simpleicons.org/postgresql/viewbox=auto" />
+  <img height="32" src="https://cdn.simpleicons.org/sqlite/viewbox=auto" />
 </p>
 
 <p align="center">
