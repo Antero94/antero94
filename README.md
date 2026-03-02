@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&multiline=true&repeat=false&width=490&lines=Welcome+to+my+Github+profile!;Below+you+will+find+information+about+me.)](https://git.io/typing-svg)
 
-<p align="middle">
-- 🔭 I’m currently working on an asteroids game made with Pygame!
-- 🌱 I’m currently learning backend development from boot.dev!
-</p>
+<p align="middle"> - 🔭 I’m currently working on an asteroids game made with Pygame! </p>
+<p align="middle"> - 🌱 I’m currently learning backend development from boot.dev! </p>
 
 <p align="middle">
   <img height="40" src="https://cdn.simpleicons.org/python/viewbox=auto" />
