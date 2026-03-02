@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+profile!;Below+you+will+find+information+about+me)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on ...
