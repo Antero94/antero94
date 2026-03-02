@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=490&height=100&lines=Welcome+to+my+Github+profile!;Below+you+will+find+information+about+me.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&multiline=true&repeat=false&width=490&height=100&lines=Welcome+to+my+Github+profile!;Below+you+will+find+information+about+me." alt="Typing SVG" /></a>
 
 <p align="middle"> - 🔭 I’m currently working on an asteroids game made with Pygame! </p>
 <p align="middle"> - 🌱 I’m currently learning backend development from boot.dev! </p>
