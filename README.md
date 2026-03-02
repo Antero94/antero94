@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&lines=Welcome+to+my+Github+profile!;Below+you+will+find+information;about+me.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&multiline=true&repeat=false&width=490&lines=Welcome+to+my+Github+profile!;Below+you+will+find+information+about+me.)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on ...
