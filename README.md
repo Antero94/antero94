@@ -23,5 +23,5 @@
 </p>
 
 <p align="center">
-  <img src="https://api.boot.dev/v1/users/public/922ca9ee-0602-4886-9c0a-287b03ea3f5b/thumbnail" >
+  <img height="320" width="360" src="https://api.boot.dev/v1/users/public/922ca9ee-0602-4886-9c0a-287b03ea3f5b/thumbnail" >
 </p>
